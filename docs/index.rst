@@ -1,5 +1,6 @@
 
 .. _distro issue tracker: https://github.com/nir0s/distro/issues
+.. _open issues on missing test data: https://github.com/nir0s/distro/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22>
 
 
 **distro** package (Linux Distribution) version |version|
@@ -27,7 +28,7 @@ mimics the exact behavior of the data sources of
 `a number of Linux distributions <https://github.com/nir0s/distro/tree/master/tests/resources/distros>`_.
 
 If you want to add test data for more distributions, please
-create an issue in the `distro issue tracker <https://github.com/nir0s/distro/issues>`_
+create an issue in the `distro issue tracker`_
 and provide the following information in the issue:
 
 * The content of the `/etc/os-release` file, if any.
@@ -36,8 +37,7 @@ and provide the following information in the issue:
 * The file names and content of any other files you are aware of that provide
   useful information about the distro.
 
-There are already some
-`open issues on missing test data <https://github.com/nir0s/distro/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22>`_.
+There are already some `open issues on missing test data`_.
 
 
 Data sources
